@@ -70,9 +70,11 @@ body {
 .main {
     text-align: left;
     font-size: 24px;
-    padding-left: 10px;
+    padding-left: 2%;
+    padding-right: 2%;
     line-height: 32px;
     text-indent: 20px;
+    
 }
 a {
     color: rgb(245, 22, 22);
@@ -143,3 +145,9 @@ a:hover {
     text-decoration: underline;
     color: red;
 }
+
+ul {
+    color: red;
+    line-height: 1.5;
+}
+
